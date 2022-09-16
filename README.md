@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm demi.
 
 <!--
 **Demi1024/Demi1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+Full-time front-end engineer
+
+- 🔭 I’m currently working on ReactJs
+- 🌱 I’m currently learning 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; React | Vue | Next.js | Three.js  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🔧 &nbsp; Visual Studio code | Git | Figma
+- 🖥 &nbsp; Figma | Photoshop 
