@@ -27,4 +27,8 @@ Full-time front-end engineer
 - 💻 &nbsp; React | Vue | Next.js | Three.js  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🔧 &nbsp; Visual Studio code | Git 
-- 🖥 &nbsp; Figma | Photoshop 
+- 🖥 &nbsp; Figma | Photoshop
+
+<h3>Project</h3>
+
+- 🍋&nbsp;[LemonUI](https://demi1024.github.io/lemonUI/#/) for Vue UI Component
